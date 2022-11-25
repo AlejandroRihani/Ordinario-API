@@ -1,0 +1,10 @@
+POST http://localhost:3001/libros/ HTTP/1.1
+content-type: application/json
+
+{
+    "id": "371147",
+    "name": "Las Aventuras de Carlitos",
+    "author": "Alejandro el Rihanis",
+    "publisher": "Libros Karlita",
+    "pubDate": "19/04/2001"
+}

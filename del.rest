@@ -1,0 +1,10 @@
+DELETE  http://localhost:3001/alumnos/63801a5f411b35ed184214aa 
+content-type: application/json
+
+{
+    "id": "371147",
+    "name": "Las Aventuras de Carlitos",
+    "author": "Alejandro el Rihanis",
+    "publisher": "Libros Karlita",
+    "pubDate": "19/04/2001"
+}
